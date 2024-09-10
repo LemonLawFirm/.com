@@ -1,2 +1,2 @@
-# .com
-LemonLawFirm.com | California Lemon Law 
+# LemonLawFirm.com
+Lemon Law Firm | California Lemon Law 
